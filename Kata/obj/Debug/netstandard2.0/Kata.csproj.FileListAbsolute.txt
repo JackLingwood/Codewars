@@ -1,0 +1,9 @@
+C:\code\Codewars\Kata\bin\Debug\netstandard2.0\Kata.deps.json
+C:\code\Codewars\Kata\bin\Debug\netstandard2.0\Kata.dll
+C:\code\Codewars\Kata\bin\Debug\netstandard2.0\Kata.pdb
+C:\code\Codewars\Kata\obj\Debug\netstandard2.0\Kata.csprojAssemblyReference.cache
+C:\code\Codewars\Kata\obj\Debug\netstandard2.0\Kata.csproj.CoreCompileInputs.cache
+C:\code\Codewars\Kata\obj\Debug\netstandard2.0\Kata.AssemblyInfoInputs.cache
+C:\code\Codewars\Kata\obj\Debug\netstandard2.0\Kata.AssemblyInfo.cs
+C:\code\Codewars\Kata\obj\Debug\netstandard2.0\Kata.dll
+C:\code\Codewars\Kata\obj\Debug\netstandard2.0\Kata.pdb

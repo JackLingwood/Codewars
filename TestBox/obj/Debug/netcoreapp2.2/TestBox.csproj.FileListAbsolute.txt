@@ -1,0 +1,17 @@
+C:\code\Codewars\TestBox\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\code\Codewars\TestBox\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\code\Codewars\TestBox\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\code\Codewars\TestBox\bin\Debug\netcoreapp2.2\TestBox.deps.json
+C:\code\Codewars\TestBox\bin\Debug\netcoreapp2.2\TestBox.runtimeconfig.json
+C:\code\Codewars\TestBox\bin\Debug\netcoreapp2.2\TestBox.runtimeconfig.dev.json
+C:\code\Codewars\TestBox\bin\Debug\netcoreapp2.2\TestBox.dll
+C:\code\Codewars\TestBox\bin\Debug\netcoreapp2.2\TestBox.pdb
+C:\code\Codewars\TestBox\obj\Debug\netcoreapp2.2\TestBox.csprojAssemblyReference.cache
+C:\code\Codewars\TestBox\obj\Debug\netcoreapp2.2\TestBox.csproj.CoreCompileInputs.cache
+C:\code\Codewars\TestBox\obj\Debug\netcoreapp2.2\TestBox.AssemblyInfoInputs.cache
+C:\code\Codewars\TestBox\obj\Debug\netcoreapp2.2\TestBox.AssemblyInfo.cs
+C:\code\Codewars\TestBox\obj\Debug\netcoreapp2.2\TestBox.dll
+C:\code\Codewars\TestBox\obj\Debug\netcoreapp2.2\TestBox.pdb
+C:\code\Codewars\TestBox\bin\Debug\netcoreapp2.2\Kata.dll
+C:\code\Codewars\TestBox\bin\Debug\netcoreapp2.2\Kata.pdb
+C:\code\Codewars\TestBox\obj\Debug\netcoreapp2.2\TestBox.csproj.CopyComplete
