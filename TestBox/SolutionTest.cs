@@ -1,4 +1,4 @@
-namespace Solution 
+      namespace Solution 
 {
   using NUnit.Framework;
   using System;
